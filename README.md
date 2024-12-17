@@ -22,9 +22,9 @@ This guide demonstrates how to configure a Virtual Private Network (VPN) using a
 
 1. **Locate Local IP Address**  
 2. **Set Up a Virtual Machine (VM) in Azure**  
-3. **Find VM IP Address (France)**  
+3. **Find VM IP Address (Canada)**  
 4. **Connect VM to Proton VPN**  
-5. **Verify VPN IP Address (Japan)**  
+5. **Verify VPN IP Address (USA)**  
 
 ---
 
